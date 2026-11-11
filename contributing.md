@@ -164,6 +164,6 @@ did nothing" when they simply never restarted.
 
 ---
 
-*Rust · Updated 2026-11-10 · Shared under the MIT License*
+*Rust · Updated 2026-11-11 · Shared under the MIT License*
 
-<!-- last reviewed 2026-11-10 -->
+<!-- last reviewed 2026-11-11 -->
